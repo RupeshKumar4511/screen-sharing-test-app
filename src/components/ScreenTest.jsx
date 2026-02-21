@@ -1,6 +1,6 @@
 import { useEffect, useRef } from "react";
 import { useNavigate } from "react-router-dom";
-import { useScreenShare } from "../hooks/useScreenShare";
+import { useScreenShare } from "../Hooks/useScreenShare";
 import Button from "./Button";
 
 export default function ScreenTest() {
